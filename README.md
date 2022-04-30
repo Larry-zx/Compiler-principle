@@ -1,6 +1,6 @@
 # Compiler-principle
 > 编译原理实验代码参考
-## 实验1 实验环境的使用  ![](https://img.shields.io/static/v1?label=难度&message=2&color=green)
+## 实验1 正则式转NFA  ![](https://img.shields.io/static/v1?label=难度&message=2&color=green)
 > 将正则表达式转换为NFA（非确定有穷自动机）
 
 ## 实验2 NFA转DFA  ![](https://img.shields.io/static/v1?label=难度&message=4&color=red)
@@ -18,12 +18,13 @@
 > 
 > 利用指针的指针来确定单链表插入和删除的位置
 
-## 实验6 提取左因子  ![](https://img.shields.io/static/v1?label=difficulty&message=3&color=orange)
+## 实验6 提取左因子  ![](https://img.shields.io/static/v1?label=难度&message=3&color=orange)
 > 理解上下文无关文法中的左因子概念
 > 掌握提取左因子的算法
 
-## 实验7 First集合  ![](https://img.shields.io/static/v1?label=difficulty&message=2&color=green)
+## 实验7 First集合  ![](https://img.shields.io/static/v1?label=难度&message=2&color=green)
 > 掌握计算First集合的方法
 
-## 实验8 Follow集合  ![](https://img.shields.io/static/v1?label=difficulty&message=2&color=green)
+## 实验8 Follow集合  ![](https://img.shields.io/static/v1?label=难度&message=2&color=green)
 > 掌握计算Follow集合的方法
+
