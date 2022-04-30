@@ -1,5 +1,4 @@
-# Compiler-principle
-![SymfonyInsight Stars](https://img.shields.io/symfony/i/stars/5)
+# Compiler-principle     ![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id&left_color=green&right_color=red)
 > 编译原理实验代码参考
 ## 实验1 正则式转NFA  ![](https://img.shields.io/static/v1?label=难度&message=2&color=green)
 > 将正则表达式转换为NFA（非确定有穷自动机）
